@@ -1,0 +1,27 @@
+{
+  "1234567890": {
+    "fields": {
+      "provider_name": "Dr. John Smith",
+      "practice_name": "ABC Heart Group",
+      "address": "250 Health Park Dr, Fort Myers, FL 33908",
+      "phone": "(239) 555-9000"
+    },
+    "observed_at": "2026-06-01"
+  },
+  "2233445566": {
+    "fields": {
+      "practice_name": "Gulf Coast Family Care",
+      "address": "150 Del Prado Blvd, Cape Coral, FL 33990",
+      "phone": "239-555-7777"
+    },
+    "observed_at": "2026-06-10"
+  },
+  "3344556677": {
+    "fields": {
+      "practice_name": "Sunshine Dermatology",
+      "address": "400 Tamiami Trl, Naples, FL 34103",
+      "phone": "239.555.2020"
+    },
+    "observed_at": "2026-06-05"
+  }
+}

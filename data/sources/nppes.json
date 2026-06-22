@@ -1,0 +1,32 @@
+{
+  "1234567890": {
+    "basic": {"first_name": "John", "last_name": "Smith", "credential": "MD", "status": "A"},
+    "taxonomies": [{"desc": "Cardiovascular Disease", "primary": true, "code": "207RC0000X"}],
+    "addresses": [
+      {"address_purpose": "LOCATION", "address_1": "250 Health Park Dr",
+       "city": "Fort Myers", "state": "FL", "postal_code": "33908",
+       "telephone_number": "239-555-9000"}
+    ],
+    "last_updated": "2025-11-12"
+  },
+  "2233445566": {
+    "basic": {"first_name": "Maria", "last_name": "Garcia", "credential": "DO", "status": "A"},
+    "taxonomies": [{"desc": "Family Medicine", "primary": true, "code": "207Q00000X"}],
+    "addresses": [
+      {"address_purpose": "LOCATION", "address_1": "150 Del Prado Blvd",
+       "city": "Cape Coral", "state": "FL", "postal_code": "33990",
+       "telephone_number": "239-555-7777"}
+    ],
+    "last_updated": "2025-09-01"
+  },
+  "3344556677": {
+    "basic": {"first_name": "David", "last_name": "Lee", "credential": "MD", "status": "A"},
+    "taxonomies": [{"desc": "Dermatology", "primary": true, "code": "207N00000X"}],
+    "addresses": [
+      {"address_purpose": "LOCATION", "address_1": "400 Tamiami Trl",
+       "city": "Naples", "state": "FL", "postal_code": "34103",
+       "telephone_number": "239-555-2020"}
+    ],
+    "last_updated": "2025-10-05"
+  }
+}

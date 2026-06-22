@@ -1,0 +1,54 @@
+{
+  "HL_001": {
+    "provider_id": "HL_001",
+    "npi": "1234567890",
+    "provider_name": "John Smith, MD",
+    "specialty": "Cardiology",
+    "practice_name": "ABC Heart Group",
+    "address": "100 Main St, Naples, FL 34102",
+    "phone": "239-555-1234",
+    "last_verified_date": "2023-09-01",
+    "credential_status": "active",
+    "monthly_search_volume": 4200,
+    "hard_signals": ["returned_mail"]
+  },
+  "HL_002": {
+    "provider_id": "HL_002",
+    "npi": "2233445566",
+    "provider_name": "Maria Garcia, DO",
+    "specialty": "Family Medicine",
+    "practice_name": "Gulf Coast Family Care",
+    "address": "88 Pine Ave, Cape Coral, FL 33904",
+    "phone": "239-555-7777",
+    "last_verified_date": "2023-05-15",
+    "credential_status": "active",
+    "monthly_search_volume": 900,
+    "hard_signals": []
+  },
+  "HL_003": {
+    "provider_id": "HL_003",
+    "npi": "3344556677",
+    "provider_name": "David Lee, MD",
+    "specialty": "Dermatology",
+    "practice_name": "Sunshine Dermatology",
+    "address": "400 Tamiami Trl, Naples, FL 34103",
+    "phone": "239-555-2020",
+    "last_verified_date": "2023-08-01",
+    "credential_status": "active",
+    "monthly_search_volume": 1500,
+    "hard_signals": []
+  },
+  "HL_004": {
+    "provider_id": "HL_004",
+    "npi": "4455667788",
+    "provider_name": "Susan Patel, MD",
+    "specialty": "Pediatrics",
+    "practice_name": "Bright Kids Pediatrics",
+    "address": "12 Coastal Way, Bonita Springs, FL 34134",
+    "phone": "239-555-3030",
+    "last_verified_date": "2026-05-01",
+    "credential_status": "active",
+    "monthly_search_volume": 600,
+    "hard_signals": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "HL_001": {
+    "provider_id": "HL_001",
+    "npi": "1234567890",
+    "provider_name": "John Smith, MD",
+    "specialty": "Cardiology",
+    "practice_name": "ABC Heart Group",
+    "address": "100 Main St, Naples, FL 34102",
+    "phone": "239-555-1234",
+    "last_verified_date": "2023-09-01",
+    "credential_status": "active"
+  },
+  "HL_005": {
+    "provider_id": "HL_005",
+    "npi": "1234567890",
+    "provider_name": "John A. Smith M.D.",
+    "specialty": "Cardiovascular Disease",
+    "practice_name": "ABC Heart Group of SW Florida",
+    "address": "250 Health Park Dr, Fort Myers, FL 33908",
+    "phone": "239-555-9000",
+    "last_verified_date": "2024-11-15",
+    "credential_status": "active"
+  },
+  "HL_003": {
+    "provider_id": "HL_003",
+    "npi": "3344556677",
+    "provider_name": "David Lee, MD",
+    "specialty": "Dermatology",
+    "practice_name": "Sunshine Dermatology",
+    "address": "400 Tamiami Trl, Naples, FL 34103",
+    "phone": "239-555-7777",
+    "last_verified_date": "2025-02-10",
+    "credential_status": "active"
+  },
+  "HL_006": {
+    "provider_id": "HL_006",
+    "npi": "9988776655",
+    "provider_name": "Lee, David",
+    "specialty": "Dermatology",
+    "practice_name": "Sunshine Dermatology",
+    "address": "400 Tamiami Trail, Naples, FL 34103",
+    "phone": "239-555-7777",
+    "last_verified_date": "2022-06-01",
+    "credential_status": "active"
+  },
+  "HL_007": {
+    "provider_id": "HL_007",
+    "npi": "5566778899",
+    "provider_name": "Susan Patel, MD",
+    "specialty": "Pediatrics",
+    "practice_name": "Bright Kids Pediatrics",
+    "address": "12 Coastal Way, Bonita Springs, FL 34134",
+    "phone": "239-555-3000",
+    "last_verified_date": "2025-05-01",
+    "credential_status": "active"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "1234567890": {
+    "fields": {
+      "provider_name": "Smith, John M.D.",
+      "specialty": "Cardiology",
+      "address": "250 Health Park Dr, Fort Myers, FL 33908",
+      "credential_status": "active"
+    },
+    "observed_at": "2025-10-20"
+  },
+  "2233445566": {
+    "fields": {
+      "provider_name": "Garcia, Maria DO",
+      "specialty": "Family Medicine",
+      "address": "88 Pine Ave, Cape Coral, FL 33904",
+      "credential_status": "active"
+    },
+    "observed_at": "2025-09-10"
+  },
+  "3344556677": {
+    "fields": {
+      "provider_name": "Lee, David MD",
+      "specialty": "Dermatology",
+      "address": "400 Tamiami Trl, Naples, FL 34103",
+      "credential_status": "active"
+    },
+    "observed_at": "2025-09-30"
+  }
+}
