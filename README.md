@@ -41,29 +41,6 @@ written with the full evidence behind every decision.
 
 ```
 <img width="1024" height="1536" alt="ChatGPT Image Jun 22, 2026, 06_29_56 PM" src="https://github.com/user-attachments/assets/bd227f82-3c11-4529-8477-2c63ff1b0810" />
-
-HealthLynked directory
-        │
-        ▼
-[1] Staleness / risk prioritization ───────────► (cost front door: bound volume)
-        │   only stale OR risk-flagged records, ranked, capped at a daily budget
-        ▼
-[2] Source fetch (priority order, early-stop) ─► NPPES → CMS → State Board → site
-        │   free + authoritative first; stop once fields are settled
-        ▼
-[3] Normalization  names · addresses · phones · specialties · practice names
-        │   kills cosmetic diffs so they never cost a call, an LLM, or a review
-        ▼
-[4] Entity resolution / matching  (NPI = deterministic key; fuzzy fallback)
-        │
-        ▼
-[5] Per-field confidence scoring  (explainable evidence model)
-        │
-        ▼
-[6] Decision routing ──► no_change · auto_update · human_review
-        │
-        ▼
-[7] Audit log (append-only)  +  directory write  +  review queue
 ```
 
 Each stage is one module in `hlpipe/`, depending only on the interfaces of its
