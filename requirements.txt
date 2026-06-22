@@ -1,0 +1,8 @@
+# Core prototype runs on the Python standard library alone.
+# These optional libraries upgrade normalization quality when installed:
+phonenumbers>=8.13      # E.164 phone parsing/validation
+usaddress>=0.5.10       # probabilistic US address parsing
+rapidfuzz>=3.0          # fast fuzzy matching for NPI-less entity resolution
+
+# Dev
+pytest>=7.0
