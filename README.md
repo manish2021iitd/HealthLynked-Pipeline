@@ -226,7 +226,7 @@ hlpipe/
   audit.py         append-only audit log
   orchestrator.py  ties stages together with the early-stop cost guard
 data/              sample directory + mock source responses + dedup sample
-run_demo.py        end-to-end reconciliation demo
-run_dedup_demo.py  duplicate-detection demo
+  run_demo.py        end-to-end reconciliation demo
+  run_dedup_demo.py  duplicate-detection demo
 tests/             pytest suite (13 tests)
 ```
