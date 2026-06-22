@@ -40,6 +40,8 @@ written with the full evidence behind every decision.
 ## 2. Pipeline architecture
 
 ```
+<img width="1024" height="1536" alt="ChatGPT Image Jun 22, 2026, 06_29_56 PM" src="https://github.com/user-attachments/assets/bd227f82-3c11-4529-8477-2c63ff1b0810" />
+
 HealthLynked directory
         │
         ▼
